@@ -9,7 +9,7 @@
 10011,"Agnegue David",,,,000-INAC,,000-INACTIF
 10012,"Boyte Nathalie",,,1,"410 - Fo",,"410 - Fondue POULET M12M14"
 10013,"Meneses Rocio",,,,000-INAC,,000-INACTIF
-10014,"Thibodeau France",,,,"410 - Fo",,"410 - Fondue POULET M12M14"
+10014,"Thibodeau 995",,,,"410 - Fo",,"9995-Arrêt Temporaire"
 10015,"Chaput François",,,1,"802 - En",,"802 - Conciergerie  M6M8"
 10017,"Levesque Emilie",,,,000-INAC,,000-INACTIF
 10019,"Dubreuil Denise",,,1,9990-Ass,,"9990-Ass.Temp. hors production"
@@ -78,7 +78,7 @@
 10117,"Carrier Helene",,,,000-INAC,,000-INACTIF
 10118,"Beauregard Lyette",,,1,"407 - Br",,"407 - Brochette HYBRIDE M16M18"
 10123,"Metivier Marylee",,,,000-INAC,,000-INACTIF
-10124,"Salazar Zapata Hector",,,1,"301 - L�",,"301 - Légumes - Équipes jour M9M11"
+10124,"Salazar Zapata Hector",,,1,"301 - L�",,000-INACTIF
 10125,"Murillo Edinson",,,,000-INAC,,000-INACTIF
 10127,"Marcoux Ian",,,,000-INAC,,000-INACTIF
 10130,"Meneses Pablo",,,,000-INAC,,000-INACTIF
@@ -102,7 +102,7 @@
 10160,"Lopez Maria Del Pilar",,,,000-INAC,,000-INACTIF
 10161,"Chacon Sebastian",,,,000-INAC,,000-INACTIF
 10162,"Lambert Dominique",,,1,"407 - Br",,"407 - Brochette HYBRIDE M16M18"
-10164,"Flores A. Kenia",,,,9995-Arr,,"605 - Emballage SOIR M8M10"
+10164,"Flores A. Kenia",,,,9995-Arr,,000-INACTIF
 10166,"Gordillo Elizabeth",,,,000-INAC,,000-INACTIF
 10167,"Dube Dumoulin Jonathan",,,,000-INAC,,000-INACTIF
 10171,"Alba Naranjo Erika Johana",,,,9995-Arr,,9995-Arr
@@ -124,11 +124,11 @@
 10194,"Gelinas Jason",,,,000-INAC,,000-INACTIF
 10195,"Serna Leiva Julieth",,,,9995-Arr,,"9995-Arrêt Temporaire"
 10196,"Quiroga Narda",,,,000-INAC,,000-INACTIF
-10197,"Aju Lorenzo T.E.T",,,1,"112 - Po",,"112 - Poulet en vrac M8M12"
+10197,"Aju Lorenzo T.E.T",,,1,"112 - Po",,000-INACTIF
 10198,"Sitan Alejandro T.E.T.",,,1,"107 - Co",,"107 - Coupe Poulet M18M22"
 10199,"Cardona Alonzo T.E.T",,,1,"101 - Tr",,"101 - Trimmage - Ligne 1 M16M24"
 10200,"Chavaloc Leonzo T.E.T",,,1,"107 - Co",,"107 - Coupe Poulet M18M22"
-10201,"Suruy Ronald T.E.T",,,1,"418 - FA",,"418 - FARCIES M10M13"
+10201,"Suruy Ronald T.E.T",,,1,"418 - FA",,000-INACTIF
 10202,"Samaoya Rudy T.E.T",,,1,"101 - Tr",,"101 - Trimmage - Ligne 1 M16M24"
 10203,"Orellana Carlos T.E.T",,,1,"101 - Tr",,"101 - Trimmage - Ligne 1 M16M24"
 10204,"Aroche Esdras T.E.T",,,1,"418 - FA",,"418 - FARCIES M10M13"
@@ -3488,7 +3488,7 @@
 51749,"Rivest Sylvie",,,,000-INAC,,000-INACTIF
 51750,"Joseph Marie Menata",,,,"107 - Co",,000-INACTIF
 51751,"Cenatus Terancia",,,,"407 - Br",,"407 - Brochette HYBRIDE M16M18"
-51752,Dora,,,,"415 - RH",,"415 - RH"
+51752,"Hernandez Dora",,,,"415 - RH",,"415 - RHODOS M12M14"
 51753,"Lato Vanessa",,,,000-INAC,,000-INACTIF
 51754,"Laramee Karine",,,,000-INAC,,000-INACTIF
 51755,"Jones Jennifer",,,,000-INAC,,000-INACTIF
@@ -4623,7 +4623,7 @@ B0002,Bus-02,,,,G2,,G2
 23022,"Singh Balwinder",,,1,"101 - Tr",,"101 - Trimmage - Ligne 1 M16M24"
 23026,"Singh Balinder",,,1,"101 - Tr",,000-INACTIF
 23034,"Singh Jaspal",,,,"101 - Tr",,"101 - Trimmage - Ligne 1 M16M24"
-70302,"Valcin Denocles",,,,"103 - Vi",,"103 - Viande Hachée M2M3"
+70302,"Valcin Denocles",,,,"103 - Vi",,000-INACTIF
 23030,"Singh Kuldeep *",,,,"104 - Pa",,000-INACTIF
 10726,"Vicente Rivera Alan  TET",,,1,"101 - Tr",,"101 - Trimmage - Ligne 1 M16M24"
 10742,"Roy Joanie",,,1,"107 - Co",,"107 - Coupe Poulet M18M22"
@@ -4668,7 +4668,7 @@ B0002,Bus-02,,,,G2,,G2
 23045,"Bala Karwal Shashi *",,,,"417 - RO",,"417 - ROTIS DE PORC M12M14"
 23046,"Gill Kaur Navjot *",,,,"417 - RO",,000-INACTIF
 23047,"Kaur Amandeep",,,,"417 - RO",,000-INACTIF
-70333,"Celestin Florence",,,,"417 - RO",,"417 - ROTIS DE PORC M12M14"
+70333,"Celestin Florence",,,,"417 - RO",,000-INACTIF
 41483,"Almonte Maryelin",,,,"418 - FA",,"418 - FARCIES M10M13"
 70315,"Ferdilus Sonese",,,,"418 - FA",,"418 - FARCIES M10M13"
 10763,"Lacarte Mimose",,,,"421 -Pan",,"421 -Panées M7M9"
@@ -4678,7 +4678,7 @@ B0002,Bus-02,,,,G2,,G2
 23031,"Kaur Charanjeet",,,,"421 -Pan",,000-INACTIF
 23036,"Kaur Rajwant *",,,,"421 -Pan",,"421 -Panées M7M9"
 23037,"Kaur Mandeep",,,,"421 -Pan",,"421 -Panées M7M9"
-23038,"Rani Soni *",,,,"421 -Pan",,"421 -Panées M7M9"
+23038,"Rani Soni *",,,,"421 -Pan",,000-INACTIF
 23039,"Kaur Sukhwinder *",,,1,"421 -Pan",,"421 -Panées M7M9"
 41488,"Pepin De Mendez Maria Margarita",,,,"421 -Pan",,"421 -Panées M7M9"
 10748,"Ramirez Luciano TET",,,1,"401 - Cr",,"401 - Crapaudine M2M4"
@@ -4687,17 +4687,17 @@ B0002,Bus-02,,,,G2,,G2
 61081,"Nouri Hakim",,,,"425 - Ru",,"425 - Runners Production M3M4"
 10731,"Villegas Ginneth",,,,000-INAC,,000-INACTIF
 23007,"Kaur Kirandeep",,,1,"605 - Em",,"605 - Emballage SOIR M8M10"
-10772,"St laurent St Clair",,,,"604 - Em",,"604 - Emballage 4 Viandes M5M7"
+10772,"St laurent St Clair",,,,"604 - Em",,000-INACTIF
 23000,"Kumar Ajay",,,,"604 - Em",,000-INACTIF
-23040,"Kaur Swarnjeet",,,,"604 - Em",,"604 - Emballage 4 Viandes M5M7"
+23040,"Kaur Swarnjeet",,,,"604 - Em",,000-INACTIF
 30018,"Randhawa Jashanjot Singh",,,1,000-INAC,,000-INACTIF
 23033,"Singh Sucha *",,,,"605 - Em",,"605 - Emballage M2M3"
-23041,"Kaur Manjit",,,,"605 - Em",,"605 - Emballage SOIR M8M10"
+23041,"Kaur Manjit",,,,"605 - Em",,"605 - Emballage M2M3"
 41443,"Charles Amicie",,,,"606 - Em",,"606 - Emballage M5M6"
 70273,"Wistaff Daniel",,,,000-INAC,,000-INACTIF
 10750,"Saint Louis Benjamin",,,,"702 - Fr",,"608 - Emballage M12M17"
 10773,"Gutierrez Bryan",,,1,"608 - Em",,000-INACTIF
-23003,"Kaur Sharanjit *",,,,"608 - Em",,"604 - Emballage 4 Viandes M5M7"
+23003,"Kaur Sharanjit *",,,,"608 - Em",,000-INACTIF
 23042,"Singh Hardeep",,,,"608 - Em",,"608 - Emballage M12M17"
 41491,"Covaci Mariana",,,1,"608 - Em",,"608 - Emballage M12M17"
 41492,"Covaciu Samuel",,,1,"608 - Em",,"608 - Emballage M12M17"
@@ -4709,7 +4709,7 @@ B0002,Bus-02,,,,G2,,G2
 10739,"Gomez Kevin Antonio TET",,,1,"701- Fri",,"701- Frigo Boeuf JOUR M5M7"
 61067,"Fakhreddine Mohamed",,,,"701- Fri",,"701- Frigo Boeuf JOUR M5M7"
 23073,"Sidhu Manjot *",,,,"608 - Em",,"608 - Emballage M12M17"
-23013,"Singh Harjeet",,,1,"702 - Fr",,"702 - Frigo Poulet JOUR M5M7"
+23013,"Singh Harjeet",,,1,"702 - Fr",,000-INACTIF
 30022," Sher Singh",,,1,"702 - Fr",,"702 - Frigo Poulet JOUR M5M7"
 10719,"Rios Marco TET",,,1,"703 - Co",,"703 - Congélateur JOUR M4M6"
 61078,"Segun Daniel",,,,"703 - Co",,"703 - Congélateur JOUR M4M6"
@@ -4724,7 +4724,7 @@ B0002,Bus-02,,,,G2,,G2
 10716,"Durandisse Joicin",,,1,"801 - En",,"801 - Entretien En Prod SOIR M5M8"
 10747,"Martinez Martinez Jesua TET",,,1,"101 - Tr",,"101 - Trimmage - Ligne 1 M16M24"
 70329,"Michelot Cleus",,,,"801 - En",,"801 - Entretien En Prod SOIR M5M8"
-61071,"Nadeau Marlene",,,,"802 - En",,"802 - Conciergerie  M6M8"
+61071,"Nadeau Marlene",,,,"802 - En",,000-INACTIF
 70322,"Ben Othman Abdallah",,,,"802 - En",,"802 - Conciergerie  M6M8"
 10764,"Moreno Ruiz Enrique",,,1,"811 - Ex",,"811 - Expédition jour M6M7"
 41487,"Villate Henry Mauricio",,,,000-INAC,,000-INACTIF
@@ -4766,19 +4766,19 @@ B0002,Bus-02,,,,G2,,G2
 23066,"Brar Satinderjeet",,,1,000-INAC,,000-INACTIF
 23067,"Singh Arshdeep",,,1,000-INAC,,000-INACTIF
 23068,"Teji Gurpreet",,,1,"411 - Em",,"411 - Emballage Sous Vide M8M10"
-23069,"Ankita Ankita",,,1,000-INAC,,"605 - Emballage SOIR M8M10"
+23069,"Ankita Ankita",,,1,000-INAC,,000-INACTIF
 23070,"Kaur Kirandeep",,,1,"411 - Em",,"411 - Emballage Sous Vide M8M10"
 23054,"Singh Gurpreet",,,,"416 - RH",,"416 - RHODOS M12M14"
 10775,"Dubeau Gisele",,,1,"417 - RO",,"417 - ROTIS DE PORC M12M14"
 23049,"Suman Suman",,,,"421 -Pan",,000-INACTIF
-23056,"Kaur Mohinder *",,,,"421 -Pan",,"421 -Panées M7M9"
+23056,"Kaur Mohinder *",,,,"421 -Pan",,000-INACTIF
 23059,"Mavi Kaur Tanveer *",,,,"421 -Pan",,000-INACTIF
 23052,"Singh Didar",,,,"601 - Em",,"601 - Emballage HYBRIDE M3M5"
 70336,"Soumahoro Sarra Vaness",,,,000-INAC,,000-INACTIF
 23053,"Singh Nishabar",,,,"603 - Em",,"603 - Emballage  M6M7"
 23055,"Rani Sheenu",,,,"603 - Em",,000-INACTIF
 23074,"Pallavi Pallavi",,,,"604 - Em",,000-INACTIF
-23062,"Singh Karamajit",,,1,"605 - Em",,"605 - Emballage SOIR M8M10"
+23062,"Singh Karamajit",,,1,"605 - Em",,"614 - Scan Emballage M3M4"
 23063,"Tarlok Sandhu",,,1,"605 - Em",,"605 - Emballage SOIR M8M10"
 23064,"Singh Akashdeep",,,1,000-INAC,,"606 - Emballage M5M6"
 23071,"Singh Simranpreet",,,1,"605 - Em",,"605 - Emballage SOIR M8M10"
@@ -4805,7 +4805,7 @@ SANI1,"LANDA FROYLAN",,,,000-INAC,,000-INACTIF
 23093,"Singh Harpreet",,,1,"112 - Po",,"411 - Emballage Sous Vide M8M10"
 23082,"Kaur Sukhwinder",,,,"201 - Fo",,000-INACTIF
 23083,"Akram Tazia",,,,"408 - Tu",,000-INACTIF
-23084,"Begum Ripa *",,,,"408 - Tu",,"408 - Tubage M16M18"
+23084,"Begum Ripa *",,,,"408 - Tu",,000-INACTIF
 23072,"Kaur Simrandeep *",,,,"601 - Em",,"601 - Emballage HYBRIDE M3M5"
 23085,"Sharanjeet Thind",,,,"601 - Em",,"601 - Emballage HYBRIDE M3M5"
 23086,"Kaur Kulwinder",,,,"601 - Em",,"601 - Emballage HYBRIDE M3M5"
@@ -4815,7 +4815,7 @@ SANI1,"LANDA FROYLAN",,,,000-INAC,,000-INACTIF
 23077,"Singh Gurjant",,,1,"605 - Em",,"605 - Emballage M2M3"
 23078,"Singh Harjinder",,,1,"605 - Em",,"605 - Emballage SOIR M8M10"
 23079,"Singh Gagandeep",,,1,"605 - Em",,"605 - Emballage SOIR M8M10"
-23080,"Kaur Jagroop",,,1,"605 - Em",,"605 - Emballage SOIR M8M10"
+23080,"Kaur Jagroop",,,1,"605 - Em",,000-INACTIF
 23081,"Kaur Gagneet",,,1,"605 - Em",,"605 - Emballage SOIR M8M10"
 10781,"Dia Elhadjo",,,1,"607 - Em",,000-INACTIF
 23090,"Kumar Paras",,,,"609 - Em",,000-INACTIF
@@ -4836,10 +4836,10 @@ Danna,"):) Danna",,,,"9000 - A",,"9000 - Administration"
 23012,"Kaur Harpreet",,,1,000-INAC,,000-INACTIF
 23018,"Kaur Jasmeen",,,1,000-INAC,,000-INACTIF
 23096,"Kaur Sukhmanpreet",,,,000-INAC,,000-INACTIF
-10787,"Erazo Sara",,,1,"608 - Em",,"608 - Emballage M12M17"
+10787,"Erazo Sara",,,1,"608 - Em",,000-INACTIF
 48232,"Calvo Arturo",,,1,"9998 - D",,"9998 - Desossage MS"
-10785,"Brutus Marie Lourdie",,,,"202 - Fo",,"202 - Fondue Boeuf M16M18"
-10786,"Matilus Merlande",,,,"202 - Fo",,"202 - Fondue Boeuf M16M18"
+10785,"Brutus Marie Lourdie",,,,"202 - Fo",,000-INACTIF
+10786,"Matilus Merlande",,,,"202 - Fo",,000-INACTIF
 10788,"Otshumba Veronique",,,,"408 - Tu",,"408 - Tubage M16M18"
 23094,"Kaur Gurbax",,,,"408 - Tu",,"408 - Tubage M16M18"
 23097,"Kaur Sharnjit",,,,"408 - Tu",,"408 - Tu"
@@ -4858,8 +4858,8 @@ Danna,"):) Danna",,,,"9000 - A",,"9000 - Administration"
 48233,"Gonzalez Juan Luis",,,1,"9998 - D",,"9998 - Desossage MS"
 48234,"Tavarez Miguel",,,,"9998 - D",,"9998 - Desossage MS"
 23101,"Singh Jaswinder",,,,"103 - Vi",,"103 - Viande Hachée M2M3"
-23100,"Kaur Satwinder",,,,"605 - Em",,"605 - Emballage SOIR M8M10"
-10789,"Gonzalez Christian",,,1,"112 - Po",,"112 - Poulet en vrac M8M12"
+23100,"Kaur Satwinder",,,1,"605 - Em",,"605 - Emballage SOIR M8M10"
+10789,"Gonzalez Christian",,,1,"112 - Po",,000-INACTIF
 ,,,,,,,
 10792,"Serna Adriana",,,1,"608 - Em",,"608 - Emballage M12M17"
 10793,"Kaur Sharnjit",,,,000-INAC,,000-INACTIF
@@ -4868,10 +4868,10 @@ Danna,"):) Danna",,,,"9000 - A",,"9000 - Administration"
 28026,"Cruz Brayan Samuel",,,1,"9996 - D",,"9996 - D"
 23016,"Kaur Sukhwinder *",,,1,000-INAC,,000-INACTIF
 10810,"Kobor Julianna",,,1,"608 - Em",,"608 - Emballage M12M17"
-23103,"Kanwar Twinkle",,,,"603 - Em",,"603 - Emballage  M6M7"
+23103,"Kanwar Twinkle",,,,"603 - Em",,000-INACTIF
 23112,"Sani Pardeep",,,1,"107 - Co",,"107 - Coupe Poulet M18M22"
 23113,"Sukhvir Singh Dhillon",,,,"107 - Co",,"107 - Coupe Poulet M18M22"
-23114,"Kumar Naresh",,,1,"107 - Co",,"107 - Coupe Poulet M18M22"
+23114,"Kumar Naresh",,,1,"107 - Co",,000-INACTIF
 23115,"Singh Amarjit",,,1,"107 - Co",,"107 - Coupe Poulet M18M22"
 23116,"Nain Jagmohan",,,1,"107 - Co",,"107 - Coupe Poulet M18M22"
 23117,"Singh Vi Kram",,,1,"107 - Co",,"107 - Coupe Poulet M18M22"
@@ -4888,7 +4888,7 @@ Danna,"):) Danna",,,,"9000 - A",,"9000 - Administration"
 10807,"Chahidi Hayat",,,,"202 - Fo",,"202 - Fondue Boeuf M16M18"
 10800,"Hernandez Claudia",,,1,"301 - L�",,"301 - Légumes - Équipes jour M9M11"
 10801,"Nyangone Marlyse",,,1,"301 - L�",,"301 - Légumes - Équipes jour M9M11"
-10795,"Godbout Xavier",,,1,"410 - Fo",,"410 - Fondue POULET M12M14"
+10795,"Godbout Xavier",,,1,"410 - Fo",,000-INACTIF
 10803,"Guerrero Rossy Maria",,,,"410 - Fo",,"410 - Fondue POULET M12M14"
 10806,"Bautista Jose",,,,"411 - Em",,"411 - Emballage Sous Vide M8M10"
 23106,"Kaur Manjit",,,1,"411 - Em",,"411 - Emballage Sous Vide M8M10"
@@ -4901,11 +4901,11 @@ Danna,"):) Danna",,,,"9000 - A",,"9000 - Administration"
 10805,"Dessables Guylande",,,,"418 - FA",,"418 - FARCIES M10M13"
 10802,"Cherubin Soraya",,,,"421 -Pan",,"421 -Panées M7M9"
 10811,"De La Cruz Rodriguez Cinthya",,,1,"601 - Em",,"601 - Emballage HYBRIDE M3M5"
-23105,"Kaur Jaspreet",,,,"601 - Em",,"601 - Emballage HYBRIDE M3M5"
-23104,"Kaur Mandeep",,,,"604 - Em",,"604 - Emballage 4 Viandes M5M7"
-23102,"Kaur Sarabjit",,,,"606 - Em",,"606 - Emballage M5M6"
-10794,"Abou Danaf Asheq",,,1,"701- Fri",,"701- Frigo Boeuf JOUR M5M7"
-10797,"Charpentier Samuel",,,1,"706 -  F",,"706 -  Frigo Shutdown SOIR M5M7"
+23105,"Kaur Jaspreet",,,,"601 - Em",,000-INACTIF
+23104,"Kaur Mandeep",,,,"604 - Em",,000-INACTIF
+23102,"Kaur Sarabjit",,,,"606 - Em",,000-INACTIF
+10794,"Abou Danaf Asheq",,,1,"701- Fri",,"702 - Frigo Poulet JOUR M5M7"
+10797,"Charpentier Samuel",,,1,"706 -  F",,000-INACTIF
 10809,"Hachemi Said",,,1,"706 -  F",,"706 -  Frigo Shutdown SOIR M5M7"
 10798,"Ilfrant Elveus Tius",,,,"801 - En",,"801 - Entretien En Prod JOUR M6M9"
 10796,"Leblanc Stephane",,,1,"802 - Co",,"802 - Conciergerie  M6M8"
@@ -4923,3 +4923,13 @@ Danna,"):) Danna",,,,"9000 - A",,"9000 - Administration"
 48241,"Herrera Mahynor",,,,"9998 - D",,"9998 - Desossage MS"
 48242,"Herrera Kevin",,,1,"9998 - D",,"9998 - Desossage MS"
 48243,"Cruz Brayan Samuel",,,1,"9998 - D",,"9998 - Desossage MS"
+23014,"Kaur Sukhbir *",,,1,000-INAC,,000-INACTIF
+23017,"Kaur Sukhveer *",,,1,000-INAC,,000-INACTIF
+23019,"Kaur Sukhwinder*",,,1,000-INAC,,000-INACTIF
+48245,"Guerra Mejia Francisco",,,1,"9998 - D",,"9998 - Desossage MS"
+23123,"Kumar Jashwinder",,,,"107 - Co",,"107 - Coupe Poulet M18M22"
+41502,"Cayetano Doroteo",,,,"112 - Po",,"112 - Poulet en vrac M8M12"
+41503,"Villegas Esteban",,,,"112 - Po",,"112 - Poulet en vrac M8M12"
+48246,"Montufar Jesus Alberto",,,1,"9998 - D",,"9998 - Desossage MS"
+48247,"Linares Ricardo",,,1,"9998 - D",,"9998 - Desossage MS"
+48248,"Lemus Florian Isaias",,,1,"9998 - D",,"9998 - Desossage MS"

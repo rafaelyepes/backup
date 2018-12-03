@@ -187,14 +187,15 @@ ini_set('max_execution_time', 300);
 include ("php/class.phpmailer.php");
 //Recibir todos los parámetros del formulario
 
-$para = "autobus@lacroixmeats.com";
+//$para = "autobus@lacroixmeats.com";
+$para = "rafael.yepes@lacroixmeats.com";
 $para1 = "";
 $para2 = "";
 $para3 = "";
 $para4 = "";
 $para5 = "";
 
-$asunto = "Asunto";
+$asunto = "Rapport de départ autobus";
 $mensaje = "Mensaje";
 
 //$username = 'docs@lacroixmeats.com';

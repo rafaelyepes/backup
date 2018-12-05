@@ -105,7 +105,7 @@
 10164,"Flores A. Kenia",,,,9995-Arr,,000-INACTIF
 10166,"Gordillo Elizabeth",,,,000-INAC,,000-INACTIF
 10167,"Dube Dumoulin Jonathan",,,,000-INAC,,000-INACTIF
-10171,"Alba Naranjo Erika Johana",,,,9995-Arr,,9995-Arr
+10171,"Alba Naranjo Erika Johana",,,,9995-Arr,,"420 - Filet d'épaule M10M13"
 10172,"Allard Joannie",,,,000-INAC,,000-INACTIF
 10173,"Da Silva Andrew",,,,000-INAC,,000-INACTIF
 10174,"Samanica Ricardo",,,,000-INAC,,000-INACTIF
@@ -1767,7 +1767,7 @@
 41354,Elisabeth,,,,0-INACTI,,0-INACTI
 41355,"Ceide Marie Clotide",,,,000-INAC,,000-INACTIF
 41356,"Louis Sancana",,,,"607 - Em",,"607 - Emballage M7M8"
-41357,"Jean Charles Anderson",,,,"701- Fri",,"701- Frigo Boeuf JOUR M5M7"
+41357,"Jean Charles Anderson",,,,"701- Fri",,"701 - Frigo Boeuf JOUR M5M7"
 41358,"Paneque Yoider Williams",,,,000-INAC,,000-INACTIF
 41359,"Melgosa Alvaro",,,,000-INAC,,000-INACTIF
 41376,"Andrevil Jules",,,,"301 - L�",,"301 - Légumes - Équipes jour M9M11"
@@ -2068,7 +2068,7 @@
 50060,"Phounsana Thanongxay",,,,000-INAC,,000-INACTIF
 50064,"Charfi Ahmed",,,,000-INAC,,000-INACTIF
 50076,"Gomez Maria Gloria",,,,000-INAC,,000-INACTIF
-50078,"Ayala Maria Balsamina",,,,"301 - L�",,"301 - L�"
+50078,"Ayala Maria Balsamina",,,,"301 - L�",,"420 - Filet d'épaule M10M13"
 50085,"Santana Idania",,,,000-INAC,,000-INACTIF
 50087,"Audet Geraldine",,,,000-INAC,,000-INACTIF
 50088,"Cherrison Attania",,,,000-INAC,,000-INACTIF
@@ -4671,16 +4671,16 @@ B0002,Bus-02,,,,G2,,G2
 70333,"Celestin Florence",,,,"417 - RO",,000-INACTIF
 41483,"Almonte Maryelin",,,,"418 - FA",,"418 - FARCIES M10M13"
 70315,"Ferdilus Sonese",,,,"418 - FA",,"418 - FARCIES M10M13"
-10763,"Lacarte Mimose",,,,"421 -Pan",,"421 -Panées M7M9"
+10763,"Lacarte Mimose",,,,"421 -Pan",,"421 - Panées M7M9"
 23027,"Kaur Jaspreet",,,1,"605 - Em",,"605 - Emballage SOIR M8M10"
-23028,"Kaur Harpreet",,,,"421 -Pan",,"421 -Panées M7M9"
-23029,"Kaur Parminder *",,,,"421 -Pan",,"421 -Panées M7M9"
+23028,"Kaur Harpreet",,,,"421 -Pan",,"421 - Panées M7M9"
+23029,"Kaur Parminder *",,,,"421 -Pan",,"421 - Panées M7M9"
 23031,"Kaur Charanjeet",,,,"421 -Pan",,000-INACTIF
-23036,"Kaur Rajwant *",,,,"421 -Pan",,"421 -Panées M7M9"
-23037,"Kaur Mandeep",,,,"421 -Pan",,"421 -Panées M7M9"
+23036,"Kaur Rajwant *",,,,"421 -Pan",,"421 - Panées M7M9"
+23037,"Kaur Mandeep",,,,"421 -Pan",,"421 - Panées M7M9"
 23038,"Rani Soni *",,,,"421 -Pan",,000-INACTIF
-23039,"Kaur Sukhwinder *",,,1,"421 -Pan",,"421 -Panées M7M9"
-41488,"Pepin De Mendez Maria Margarita",,,,"421 -Pan",,"421 -Panées M7M9"
+23039,"Kaur Sukhwinder *",,,1,"421 -Pan",,"421 - Panées M7M9"
+41488,"Pepin De Mendez Maria Margarita",,,,"421 -Pan",,"421 - Panées M7M9"
 10748,"Ramirez Luciano TET",,,1,"401 - Cr",,"401 - Crapaudine M2M4"
 10746,"Chavez Benjamin TET",,,1,"101 - Tr",,"101 - Trimmage - Ligne 1 M16M24"
 10765,"Lopez Miguel Angel",,,,"425 - Ru",,000-INACTIF
@@ -4706,15 +4706,15 @@ B0002,Bus-02,,,,G2,,G2
 10721,"Cubule Carlos Yoe TET",,,1,"610 - Em",,"610 - Emballage Traypack M5M6"
 23032,"Singh Jagjit",,,,"610 - Em",,"610 - Emballage Traypack M5M6"
 10718,"Saba Jhonatan TET",,,1,"614 - Sc",,"614 - Scan Emballage M3M4"
-10739,"Gomez Kevin Antonio TET",,,1,"701- Fri",,"701- Frigo Boeuf JOUR M5M7"
-61067,"Fakhreddine Mohamed",,,,"701- Fri",,"701- Frigo Boeuf JOUR M5M7"
+10739,"Gomez Kevin Antonio TET",,,1,"701- Fri",,"701 - Frigo Boeuf JOUR M5M7"
+61067,"Fakhreddine Mohamed",,,,"701- Fri",,"701 - Frigo Boeuf JOUR M5M7"
 23073,"Sidhu Manjot *",,,,"608 - Em",,"608 - Emballage M12M17"
 23013,"Singh Harjeet",,,1,"702 - Fr",,000-INACTIF
 30022," Sher Singh",,,1,"702 - Fr",,"702 - Frigo Poulet JOUR M5M7"
 10719,"Rios Marco TET",,,1,"703 - Co",,"703 - Congélateur JOUR M4M6"
 61078,"Segun Daniel",,,,"703 - Co",,"703 - Congélateur JOUR M4M6"
 10743,"Hache Danny",,,1,"706 -  F",,"706 -  Frigo Shutdown SOIR M5M7"
-10745,"Espinoza Alfonso TET",,,1,"706 -  F",,"701- Frigo Boeuf JOUR M5M7"
+10745,"Espinoza Alfonso TET",,,1,"706 -  F",,"701 - Frigo Boeuf JOUR M5M7"
 10749,"Martinez Oscar TET",,,1,"706 -  F",,"706 -  Frigo Shutdown SOIR M5M7"
 70332,"Laforest Christian",,,,000-INAC,,000-INACTIF
 70334,"Aubin Yvenel",,,,000-INAC,,000-INACTIF
@@ -4765,9 +4765,9 @@ B0002,Bus-02,,,,G2,,G2
 23065,"Buttar Harjeet",,,1,000-INAC,,000-INACTIF
 23066,"Brar Satinderjeet",,,1,000-INAC,,000-INACTIF
 23067,"Singh Arshdeep",,,1,000-INAC,,000-INACTIF
-23068,"Teji Gurpreet",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M8M10"
+23068,"Teji Gurpreet",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M12M14"
 23069,"Ankita Ankita",,,1,000-INAC,,000-INACTIF
-23070,"Kaur Kirandeep",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M8M10"
+23070,"Kaur Kirandeep",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M12M14"
 23054,"Singh Gurpreet",,,,"416 - RH",,"416 - RHODOS M12M14"
 10775,"Dubeau Gisele",,,1,"417 - RO",,"417 - ROTIS DE PORC M12M14"
 23049,"Suman Suman",,,,"421 -Pan",,000-INACTIF
@@ -4802,7 +4802,7 @@ SANI1,"LANDA FROYLAN",,,,000-INAC,,000-INACTIF
 10779,"Carrera Isabel",,,,"107 - Co",,"107 - Coupe Poulet M18M22"
 41496,"Ayala Juan David",,,,"108 - Bo",,"107 - Coupe Poulet M18M22"
 23092,"Singh Arshdeep",,,,"112 - Po",,000-INACTIF
-23093,"Singh Harpreet",,,1,"112 - Po",,"411 - Emballage Sous Vide SOIR M8M10"
+23093,"Singh Harpreet",,,1,"112 - Po",,"411 - Emballage Sous Vide SOIR M12M14"
 23082,"Kaur Sukhwinder",,,,"201 - Fo",,000-INACTIF
 23083,"Akram Tazia",,,,"408 - Tu",,000-INACTIF
 23084,"Begum Ripa *",,,,"408 - Tu",,000-INACTIF
@@ -4880,8 +4880,8 @@ Danna,"):) Danna",,,,"9000 - A",,"9000 - Administration"
 23120,"Kumar Sukhdev",,,,"107 - Co",,"107 - Coupe Poulet M18M22"
 23121,"Kumar Anil",,,1,"107 - Co",,"107 - Coupe Poulet M18M22"
 23122,"Gourav Gourav",,,1,"107 - Co",,"107 - Coupe Poulet M18M22"
-10812,"Cayetano Doroteo",,,,"112 - Po",,"112 - Poulet en vrac M8M12"
-10813,"Villegas Esteban",,,,"112 - Po",,"112 - Poulet en vrac M8M12"
+10812,"Ojooba Esther",,,,"112 - Po",,"802 - Conciergerie  M6M8"
+10813,"Rojas Julian",,,1,"112 - Po",,"706 -  Frigo Shutdown SOIR M5M7"
 10799,"Gomez Blanca",,,1,"201 - Fo",,"201 - Fondue - Boeuf  M16M18"
 41499,"Gabriel Jeseline",,,,"201 - Fo",,"201 - Fondue - Boeuf  M16M18"
 10804,"Cordoba Bond Hugo Alexis",,,1,"202 - Fo",,"202 - Fondue Boeuf M16M18"
@@ -4891,15 +4891,15 @@ Danna,"):) Danna",,,,"9000 - A",,"9000 - Administration"
 10795,"Godbout Xavier",,,1,"410 - Fo",,000-INACTIF
 10803,"Guerrero Rossy Maria",,,,"410 - Fo",,"410 - Fondue POULET M12M14"
 10806,"Bautista Jose",,,,"411 - Em",,"411 - Emballage Sous Vide M8M10"
-23106,"Kaur Manjit",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M8M10"
-23107,"Kaur Amarjit",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M8M10"
-23108,"Singh Mota",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M8M10"
-23109,"Kaur Jaspreet",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M8M10"
-23110,"Kaur Baljit",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M8M10"
-23111,"Kaur Satvant",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M8M10"
+23106,"Kaur Manjit",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M12M14"
+23107,"Kaur Amarjit",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M12M14"
+23108,"Singh Mota",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M12M14"
+23109,"Kaur Jaspreet",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M12M14"
+23110,"Kaur Baljit",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M12M14"
+23111,"Kaur Satvant",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M12M14"
 41500,"Cavagnaro Ivan",,,,"411 - Em",,"411 - Emballage Sous Vide M8M10"
 10805,"Dessables Guylande",,,,"418 - FA",,"418 - FARCIES M10M13"
-10802,"Cherubin Soraya",,,,"421 -Pan",,"421 -Panées M7M9"
+10802,"Cherubin Soraya",,,,"421 -Pan",,"421 - Panées M7M9"
 10811,"De La Cruz Rodriguez Cinthya",,,1,"601 - Em",,"601 - Emballage HYBRIDE M3M5"
 23105,"Kaur Jaspreet",,,,"601 - Em",,000-INACTIF
 23104,"Kaur Mandeep",,,,"604 - Em",,000-INACTIF
@@ -4933,5 +4933,18 @@ Danna,"):) Danna",,,,"9000 - A",,"9000 - Administration"
 48246,"Montufar Jesus Alberto",,,1,"9998 - D",,"9998 - Desossage MS"
 48247,"Linares Ricardo",,,1,"9998 - D",,"9998 - Desossage MS"
 48248,"Lemus Florian Isaias",,,1,"9998 - D",,"9998 - Desossage MS"
-23125,"Thind Bhagwant",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M8M10"
-23126,"Sidhu Ramanveer",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M8M10"
+23061,"Thakur Achal",,,,"101 - Tr",,"101 - Trimmage - Ligne 1 M16M24"
+23125,"Thind Bhagwant",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M12M14"
+23126,"Sidhu Ramanveer",,,1,"411 - Em",,"411 - Emballage Sous Vide SOIR M12M14"
+23021,"Kaur Mandeep",,,1,LL,,"420 - Filet d'épaule M10M13"
+23127,"Kulvinder Kulvinder",,,,"112 - Po",,"112 - Poulet en vrac M8M12"
+23128,"Singh Joga",,,,"112 - Po",,"112 - Poulet en vrac M8M12"
+23129,"Singh Sukhdev",,,,"112 - Po",,"112 - Poulet en vrac M8M12"
+23124,"Kaur Amarjit",,,,"420 - Filet d'épaule M10M13",,"420 - Filet d'épaule M10M13"
+10741,"Vergland Christiana",,,1,"420 - Filet d'épaule M10M13",,"420 - Filet d'épaule M10M13"
+10757,"Ogunsina Mary Toyin",,,,"420 - Filet d'épaule M10M13",,"420 - Filet d'épaule M10M13"
+10761,"Call Juanita",,,,"420 - Filet d'épaule M10M13",,"420 - Filet d'épaule M10M13"
+23023,"Virk Parminder *",,,1,"420 - Filet d'épaule M10M13",,"420 - Filet d'épaule M10M13"
+23024,"KAur Sarabjeet",,,1,"420 - Filet d'épaule M10M13",,"420 - Filet d'épaule M10M13"
+41486,"Georges Marie Benite",,,,"420 - Filet d'épaule M10M13",,"420 - Filet d'épaule M10M13"
+70278,"Joseph Rose Dite",,,,"420 - Filet d'épaule M10M13",,"420 - Filet d'épaule M10M13"
